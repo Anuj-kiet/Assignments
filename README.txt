@@ -1,4 +1,4 @@
-First Description: This is html assignments
+First Description: This is JS assignments
 Master Branch
 
 <<<<<<< HEAD
